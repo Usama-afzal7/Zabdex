@@ -30,7 +30,7 @@ const Navbar = () => {
   return(
     <div className='exchange__header grid'>
       <div className='exchange__header--brand flex'>
-        <img src={logo} className="logo" alt="DApp Logo"></img>
+        <img src={logo} className="logo" alt="ZAB Logo"></img>
         <h1>ZABdEx</h1>
       </div>
 
